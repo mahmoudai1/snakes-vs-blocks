@@ -1,0 +1,10 @@
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.Properties.Resources.resources
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.csproj.GenerateResource.cache
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\bin\Debug\MiniGameProject.exe.config
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\bin\Debug\MiniGameProject.exe
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\bin\Debug\MiniGameProject.pdb
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.MiniGame.resources
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.exe
+C:\Users\mahmoud\source\repos\MiniGameProject\MiniGameProject\obj\Debug\MiniGameProject.pdb
